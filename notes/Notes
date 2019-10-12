@@ -1,0 +1,10 @@
+Analysis Results:
+
+#searches through all .java files in the directory and sub-directories and count the number of comments, lines of code, and vocab in the system.
+
+Script searches 
+-TOTAL COMMENTS =  53,599
+-TOTAL LOC(LINES OF CODE) =  2,002,450
+-TOTAL VOCAB =  1,866,718
+ 
+ 1. Noted number of comments compared to lines of code to be quite low.
