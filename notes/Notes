@@ -8,3 +8,18 @@ Script searches
 -TOTAL VOCAB =  1,866,718
  
  1. Noted number of comments compared to lines of code to be quite low.
+ 
+ …or create a new repository on the command line
+echo "# lab2-rjj-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/JoddieNgatz/lab2-rjj-.git
+                       https://github.com/JoddieNgatz/LeicesterSoftEng/lab2-rjj-.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/JoddieNgatz/lab2-rjj-.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
